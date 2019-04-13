@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name,: MyString
+  specialities: 
+  location,: MyString
+  years_experience: 
+  board_certifications,: MyString
+  education: MyString
+  gender: MyString
+  languages: MyString
+
+two:
+  name,: MyString
+  specialities: 
+  location,: MyString
+  years_experience: 
+  board_certifications,: MyString
+  education: MyString
+  gender: MyString
+  languages: MyString
